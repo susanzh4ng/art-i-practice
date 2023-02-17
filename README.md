@@ -106,3 +106,5 @@
 * `npm i nodemon` -> when we make any file changes and save them, this will automatically restart and update our server (we no longer have to do it manually)
 * `"start": "nodemon index.js"` -> add to your scripts in package.json; whenever we start our program in the terminal, it also starts index.js with the nodemon package
 * `"type": "module"` -> add before scripts in package.json; necessary for importing modules
+
+hi guys 
