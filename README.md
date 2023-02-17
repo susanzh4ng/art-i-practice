@@ -1,5 +1,6 @@
 # ArtI Git Workshop (S23)
 
+oh hi guys 
 #### Git Workshop Overview: ####
 - [ ] Decide when to have weekly ArtI meetings
 - [ ] Installing Git ("git --version") and VS Code
@@ -108,3 +109,4 @@
 * `"type": "module"` -> add before scripts in package.json; necessary for importing modules
 
 hi guys 
+
