@@ -1,5 +1,7 @@
 # ArtI Git Workshop (S23)
 
+## Isaac was here
+
 #### Git Workshop Overview:
 
 - [ ] Decide when to have weekly ArtI meetings
